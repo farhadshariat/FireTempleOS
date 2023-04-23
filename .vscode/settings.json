@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "kernel.h": "c",
+        "compare": "cpp",
+        "idt.h": "c",
+        "stddef.h": "c",
+        "config.h": "c"
+    }
+}
