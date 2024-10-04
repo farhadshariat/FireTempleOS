@@ -115,7 +115,7 @@ void kernel_main()
 {
     // empty whole console by making it black
     terminal_initialize();
-    print("FARHAD IS GAY! \nyou are gay too!\n", WHITE);
+    print("Welcome to fire temple os!", WHITE);
 
     //initilize the interrupt descriptor table
     idt_init();
